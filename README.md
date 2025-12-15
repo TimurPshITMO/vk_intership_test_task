@@ -1,5 +1,6 @@
 # Тестовое задание "ИИ-Помогатор" для баз знаний
-Выполнил [Пшиншев Тимур](https://github.com/TimurPshITMO), тг: [@annoying_rusk](t.me/annoying_rusk)
+Выполнил [Пшиншев Тимур](https://github.com/TimurPshITMO)
+тг: [@annoying_rusk](t.me/annoying_rusk)
 
 ### Результат
 В рамках задания был создан простой помощник для построения базы знаний: пользователь отправляет документ в Telegram, бот суммаризирует его содержание, извлекает ключевые слова и сохраняет результаты (суммаризацию, ключевые слова и метаданные) в Google Sheets
@@ -8,7 +9,7 @@
 
 Репозиторий содержит [n8n шаблон](./Workflow.json), реализующий пайплайн телеграм-бота. Результаты сохраняются в [Google Sheets](https://docs.google.com/spreadsheets/d/1CIgrzvbObSNNtNxYRS3mu55VCy1yP6Oh6zVivNGLzDs/edit?usp=sharing).
 
-![Видео-демонстрация](https://drive.google.com/file/d/1g5BFJ8eB-tLscYsMMLkJvdXpds64CrEi/view?usp=sharing) пайплайна решения на примере нескольких файлов
+[Видео-демонстрация](https://drive.google.com/file/d/1g5BFJ8eB-tLscYsMMLkJvdXpds64CrEi/view?usp=sharing) пайплайна решения на примере нескольких файлов
 Ссылка на телеграм-бота [ИИ-помогатор by Пшиншев Тимур](https://web.telegram.org/k/#@ar_file_summary_bot)
 
 ### Рефлексия
