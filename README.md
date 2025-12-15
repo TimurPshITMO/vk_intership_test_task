@@ -1,0 +1,1 @@
+# vk_intership_test_task
