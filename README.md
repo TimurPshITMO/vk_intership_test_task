@@ -1,8 +1,8 @@
-# Тестовое задание "ИИ-Помогатор" для баз знаний
+❤️ # Тестовое задание "ИИ-Помогатор" для баз знаний
 
 Выполнил [Пшиншев Тимур](https://github.com/TimurPshITMO)
 
-тг: [@annoying_rusk](t.me/annoying_rusk)
+tg: [@annoying_rusk](t.me/annoying_rusk)
 
 ## Результат
 
